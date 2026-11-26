@@ -1,0 +1,4 @@
+store-sales-time-series-forecasting
+*.csv
+.ipynb_checkpoints/
+__pycache__/
